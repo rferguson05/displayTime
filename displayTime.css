@@ -1,7 +1,21 @@
+body{
+  background-color: black;
+}
 .container{
 font-family: "Roboto", sans-serif;
-  color: red;
+  color: rgb(0, 113, 0);
+  background-color: black;
 }
 h1,h2,h3{
   text-align: center;
+}
+.col-12{
+  align-content: center;
+}
+#timeDiv{
+  font-family: 'Orbitron', sans-serif;
+  font-size: 100px;
+  text-align: center;
+  color:rgb(0, 113, 0);
+
 }
